@@ -1,7 +1,7 @@
 " ============================================================================
-" File: tree.vim
+" File: chef.vim
 " Maintainer: https://github.com/EvanQuan/vim-chef/
-" Version: 0.1.0
+" Version: 0.1.1
 "
 " Syntax highlighting for chef files.
 " ============================================================================
